@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JidNatin
+- 👋 Hi, I’m @JidNation
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning mobile development using java and kotlin
 - 💞️ I’m looking to collaborate on ...
